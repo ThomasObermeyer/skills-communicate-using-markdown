@@ -2,12 +2,19 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-ˋˋˋ javascript
-var myVar = "Hello, world!";
-ˋˋˋ
+```python
+def hallo_welt():
+    print("Hallo, Welt!")
+```
 
-ˋˋˋ
+
+```javascript
+var myVar = "Hello, world!";
+```
+
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-ˋˋˋ
+```
+
 
